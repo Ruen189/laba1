@@ -1,0 +1,42 @@
+Time: 2025-05-01 01:17:00 | User: @Yaroslav9605 | ID: 1264725550 | Message: Супер | score: 0.5351205468177795
+Rating | Time: 2025-05-01 01:17:14 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:17:32 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: супер
+ERROR:TeleBot:Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+ERROR:TeleBot:Exception traceback:Feedback | Time: 2025-05-01 01:31:07 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: Все супер
+Rating | Time: 2025-05-01 01:31:10 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:32:43 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: Все супер
+Rating | Time: 2025-05-01 01:32:47 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:34:24 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: Все супер
+Rating | Time: 2025-05-01 01:34:26 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:36:04 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: Все супер
+Rating | Time: 2025-05-01 01:36:08 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:37:12 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: СУПЕР
+Rating | Time: 2025-05-01 01:37:15 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:38:27 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: сУПЕР
+Rating | Time: 2025-05-01 01:38:31 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Feedback | Time: 2025-05-01 01:41:45 | User: @Yaroslav9605 | ID: 1264725550 | Feedback: супер
+Rating | Time: 2025-05-01 01:41:49 | User: @Yaroslav9605 | ID: 1264725550 | Rating: 5
+Time: 2025-05-01 01:42:34 | User: @Yaroslav9605 | ID: 1264725550 | Message: Да | score: 0.6144988536834717
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:43:15] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:43:16] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:44:52] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+Time: 2025-05-23 23:44:52 | User: @Yaroslav9605 | ID: 1264725550 | Message: соси чмо | score: 0.6817998290061951
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:45:03] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+Time: 2025-05-23 23:45:03 | User: @Yaroslav9605 | ID: 1264725550 | Message: как добраться до общаги ильмира | score: 0.8241217136383057
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:45:10] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+Time: 2025-05-23 23:45:10 | User: @Yaroslav9605 | ID: 1264725550 | Message: до дома бомжа | score: 0.7312620878219604
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:45:12] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+Time: 2025-05-23 23:45:12 | User: @Yaroslav9605 | ID: 1264725550 | Message: сука | score: 0.4631747007369995
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:45:19] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
+Time: 2025-05-23 23:45:19 | User: @Yaroslav9605 | ID: 1264725550 | Message: куда я жмал | score: 0.6738764047622681
+INFO:werkzeug:127.0.0.1 - - [23/May/2025 23:45:25] "POST /7919779735:AAEEH3TzOs98MZ4Q78QSAcyJZ2lVGr8y7nU HTTP/1.1" 200 -
